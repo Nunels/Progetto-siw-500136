@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ed
+Build-Jdk: 12.0.1
+Implementation-Title: progetto-siw-1
+Implementation-Version: 1
+Implementation-Vendor-Id: it.uniroma3.siw
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/progetto-siw-1
+Created-By: Maven Integration for Eclipse
+
